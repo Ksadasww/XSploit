@@ -1,0 +1,26 @@
+UNKNOWN encountered an error and crashed!
+
+A crash log can be found at:
+06-04-2022_07-29-39_Crash.txt
+
+
+Crash Information:
+[Code = 0xC0000005]
+[ExceptSymbol = NoSym]
+[Eip = 0x77208E4D]
+[Eax = 0x03508C5C]
+[Ebx = 0x03ADF924]
+[Ecx = 0xC1870000]
+[Edx = 0x00000189]
+[Esi = 0x000001B7]
+[Edi = 0x762D97F0]
+[Ebp = 0x03ADF9F0]
+[Esp = 0x03ADF9E8]
+[Dll Base = 0x00000000]
+
+[File: UnkFile]                         [DynamicAddr: 0x5D61CC61]
+[File: UnkFile]                         [DynamicAddr: 0x5D61DE2D]
+[File: UnkFile] [Module: ucrtbase.dll]  [RebaseAddr: 0x00446823]  [BaseAddr: 0x75480000]
+[File: UnkFile] [Module: KERNEL32.DLL]  [RebaseAddr: 0x00416739]  [BaseAddr: 0x762C0000]
+[File: UnkFile] [Module: ntdll.dll]     [RebaseAddr: 0x00468E7F]  [BaseAddr: 0x771A0000]
+[File: UnkFile] [Module: ntdll.dll]     [RebaseAddr: 0x00468E4D]  [BaseAddr: 0x771A0000]
